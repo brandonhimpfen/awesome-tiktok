@@ -73,6 +73,7 @@ Computational social science toolkits, trend tracking frameworks, and academic r
 - [TikTok Research API Wrapper](https://developers.tiktok.com/products/research-api/) — Official research portal library providing credentialed access to public video, user, and comment data for academic institutions.
 - [PyKTok](https://github.com/jepusto/pyktok) — Python library designed for quantitative researchers to collect and parse TikTok video metadata into structured DataFrames.
 - [TikTok-Trend-Analysis](https://github.com/social-media-research) — Open analytics pipeline for measuring viral hashtag propagation, audio usage patterns, and engagement metrics.
+- [TKMetrics](https://tkmetrics.com/) — Public TikTok account statistics: followers, average views, engagement rate, top videos, hashtags and sounds used.
 
 ## Related Awesome Lists
 
